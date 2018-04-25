@@ -24,3 +24,4 @@ In this lab, you'll be working on two components — two buttons, to be more pre
 ## Resources
 
 - [React Mouse Events](https://facebook.github.io/react/docs/events.html#mouse-events)
+<p data-visibility='hidden'>PHRG React Events in Detail</p>
